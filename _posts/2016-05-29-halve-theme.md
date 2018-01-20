@@ -11,7 +11,7 @@ tag:
 - theme
 - vangelis
 ---
-
+"
 <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
 
 <center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
