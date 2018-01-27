@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2019-05-29
 title: "Layout: Header Image (Horizontal)"
 image: images/unsplash-image-1.jpg
 categories:

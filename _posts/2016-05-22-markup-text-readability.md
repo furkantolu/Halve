@@ -2,6 +2,7 @@
 layout: post
 title: "Markup: Text Readability Test"
 excerpt: "A bunch of text to test readability."
+date:   2019-05-29
 tags: 
   - sample post
   - readability

@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2019-05-29
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
 categories:
   - Markup

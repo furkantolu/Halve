@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2019-05-29
 title: "Markup: Syntax Highlighting"
 excerpt: "Post displaying the various ways of highlighting code in Markdown."
 tags: 

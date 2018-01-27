@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2019-05-29
 title: "Layout: Header Image and Text Readability"
 image: images/unsplash-image-4.jpg
 tags: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2019-05-29
 categories:
   - Edge Case
 tags:

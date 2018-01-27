@@ -1,5 +1,6 @@
 ---
 layout: post
+date:   2019-05-29
 title: "Markup: Text Alignment"
 categories:
   - Markup
