@@ -227,11 +227,11 @@ canvas {
         -ms-transform: translate(-50%, -50%);
         -o-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
-        font-size: 30px;
+        font-size: 28px;
         color: $white;
         padding-right: 10px;
         white-space: nowrap;
-        text-align: center;
+        text-align: left;
         strong {
           color: rgba($white, 0.7);
         }
@@ -239,6 +239,13 @@ canvas {
           font-size: 20px;
           line-height: 33px;
           color: darken($white, 40%);
+        }
+        h4{
+          font-size: 28px;
+        }
+        p{
+          font-size: 20px;
+          margin-left: 3px;
         }
       }
       &:after {
@@ -300,6 +307,10 @@ canvas {
   max-width: 400px;
   width: 100%;
   margin: 0 auto;
+  h1{
+    margin-top: 10px !important;
+    font-size: 22px !important;
+  }
   h1,
   h2 {
     font-size: 30px;

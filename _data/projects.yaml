@@ -1,29 +1,76 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: "Cadde Cafe & Brasserie"
+  category: "Logo Tasarımı"
+  url: https://www.facebook.com/CafeCaddeBistro
+  image: images/caddelogo.jpg
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: "Sami Orman Ürünleri"
+  category: "Web Site Tasarımı"
+  url: http://samiormanurunleri.com
+  image: images/mockup1.jpg
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+- title: "Erdemler Mimarlık"
+  category: "Kartvizit Tasarımı"
+  url: http://furkantolu.net
+  image: images/erdemler.jpg
+  completed: false
+
+- title: "Tulpar Group"
+  category: "Logo Tasarımı"
+  url: https://www.facebook.com/Tulparyapi33
+  image: images/tulpar.jpg
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+- title: "Sapmazoğlu Metal"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/sapmazoglu.jpg
   completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+- title: "Water Is Life Erasmus+"
+  category: "Video Montaj"
+  url: https://www.youtube.com/watch?v=44hEKyaM-RA
+  image: images/waterislife.jpg
+  completed: true
+
+- title: "Toscana Pizza"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/toscana.jpg
   completed: false
+
+- title: "Şimşek Reklam"
+  category: "Logo Tasarımı"
+  url: http://samiormanurunleri.com
+  image: images/simsekreklam.jpg
+  completed: false
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
