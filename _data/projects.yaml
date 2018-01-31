@@ -5,7 +5,7 @@
   completed: true
 
 - title: "Sami Orman Ürünleri"
-  category: "Web Site Tasarımı"
+  category: "Kurumsal Kimlik Çalışması"
   url: http://samiormanurunleri.com
   image: images/mockup1.jpg
   completed: true
@@ -29,7 +29,7 @@
   completed: false
 
 - title: "Water Is Life Erasmus+"
-  category: "Video Montaj"
+  category: "Video Montajı"
   url: https://www.youtube.com/watch?v=44hEKyaM-RA
   image: images/waterislife.jpg
   completed: true

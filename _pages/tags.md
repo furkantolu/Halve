@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tag Archive
+title: Etiket Arşivi
 description: "An archive of posts sorted by tag."
 permalink: /tags.html
 ---
