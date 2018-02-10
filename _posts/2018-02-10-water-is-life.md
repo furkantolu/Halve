@@ -15,7 +15,7 @@ tags:
 ### Erasmus+ Uluslararası Gençlik Değişimi
 
 <figure class="figure">
-    <img href="/images/posts/waterislife/waterislife2.jpg" src="/images/posts/waterislife/waterislife2.jpg">
+    <a href="/images/posts/waterislife/waterislife2.JPG"><img src="/images/posts/waterislife/waterislife2.JPG"></a>
     <figcaption>Karaman Taşkale Gezisi</figcaption>
 </figure>
 
@@ -29,9 +29,9 @@ Water İs Life ilk Youth Exchange projem olmuştur. Çok eğlenceli ve eğitici 
 
 
 <figure class="half">
-    <a href="/images/posts/waterislife/waterislife3.jpg"><img src="/images/posts/waterislife/waterislife3.jpg"></a>
-    <a href="/images/posts/waterislife/waterislife4.jpg"><img src="/images/posts/waterislife/waterislife4.jpg"></a>
-    <a href="/images/posts/waterislife/waterislife5.jpg"><img src="/images/posts/waterislife/waterislife5.jpg"></a>
-    <a href="/images/posts/waterislife/waterislife6.jpg"><img src="/images/posts/waterislife/waterislife6.jpg"></a>
+    <a href="/images/posts/waterislife/waterislife3.JPG"><img src="/images/posts/waterislife/waterislife3.JPG"></a>
+    <a href="/images/posts/waterislife/waterislife4.JPG"><img src="/images/posts/waterislife/waterislife4.JPG"></a>
+    <a href="/images/posts/waterislife/waterislife5.JPG"><img src="/images/posts/waterislife/waterislife5.JPG"></a>
+    <a href="/images/posts/waterislife/waterislife6.JPG"><img src="/images/posts/waterislife/waterislife6.JPG"></a>
     <figcaption>Water Is Life</figcaption>
 </figure>
