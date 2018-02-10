@@ -14,7 +14,10 @@ tags:
 
 ### Erasmus+ Uluslararası Gençlik Değişimi
 
-{% capture images %} {{ site.url }}/images/posts/waterislife/waterislife2.jpg {% endcapture %} {% include gallery images=images caption="Karaman Taşkale Gezisi" cols=12 %}
+<figure class="figure">
+    <a href="/images/posts/waterislife/waterislife2.jpg"><img src="/images/posts/waterislife/waterislife2.jpg"></a>
+    <figcaption>Karaman Taşkale Gezisi</figcaption>
+</figure>
 
 Water Is Life projesi 2015 yılı Kasım ayında Karaman'da gerçekleştirildi. Benimde aralarında bulunduğum, 7 ülkeden 42 kişi projede katılımcı olarak yer aldı. 
 
@@ -24,4 +27,11 @@ Projede, insanların su tasarrufuna ve dikkatli su kullanımına yönelik farkı
 
 Water İs Life ilk Youth Exchange projem olmuştur. Çok eğlenceli ve eğitici bir proje oldu, farklı ülkelerden halen görüşmeye devam ettiğim dostlarım var. Beni Erasmus+ ile tanıştırdıkları için Karaman Gençlik Kulübü'ne sonsuz teşekkürlerimi sunuyorum. :)
 
-{% capture images %} {{ site.url }}/images/posts/waterislife/waterislife3.jpg {{ site.url }}/images/posts/waterislife/waterislife4.jpg {{ site.url }}/images/posts/waterislife/waterislife5.jpg {{ site.url }}/images/posts/waterislife/waterislife6.jpg {% endcapture %} {% include gallery images=images caption="Water Is Life" cols=2 %}
+
+<figure class="half">
+    <a href="/images/posts/waterislife/waterislife3.jpg"><img src="/images/posts/waterislife/waterislife3.jpg"></a>
+    <a href="/images/posts/waterislife/waterislife4.jpg"><img src="/images/posts/waterislife/waterislife4.jpg"></a>
+    <a href="/images/posts/waterislife/waterislife5.jpg"><img src="/images/posts/waterislife/waterislife5.jpg"></a>
+    <a href="/images/posts/waterislife/waterislife6.jpg"><img src="/images/posts/waterislife/waterislife6.jpg"></a>
+    <figcaption>Water Is Life</figcaption>
+</figure>
