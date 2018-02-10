@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-10T15:27:52+03:00</updated><id>http://localhost:4000/</id><title type="html">Furkan Tolu</title><subtitle>Frontend Developer</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-11T01:52:31+03:00</updated><id>http://localhost:4000/</id><title type="html">Furkan Tolu</title><subtitle>Frontend Developer</subtitle><entry><title type="html">Water Is Life</title><link href="http://localhost:4000/water-is-life/" rel="alternate" type="text/html" title="Water Is Life" /><published>2018-02-10T00:00:00+03:00</published><updated>2018-02-10T00:00:00+03:00</updated><id>http://localhost:4000/water-is-life</id><content type="html" xml:base="http://localhost:4000/water-is-life/">&lt;h3 id=&quot;erasmus-uluslararası-gençlik-değişimi&quot;&gt;Erasmus+ Uluslararası Gençlik Değişimi&lt;/h3&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;http://localhost:4000/images/posts/waterislife/waterislife2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/posts/waterislife/waterislife2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Karaman Taşkale Gezisi&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Water Is Life projesi 2015 yılı Kasım ayında Karaman’da gerçekleştirildi. Benimde aralarında bulunduğum, 7 ülkeden 42 kişi projede katılımcı olarak yer aldı.&lt;/p&gt;
+
+&lt;p&gt;Katılımcı ülkeler arasında; Polonya, İspanya, Slovakya, Bulgaristan, Azerbaycan, Sırbistan ve Türkiye vardı. Proje toplamda 11 gün sürdü.&lt;/p&gt;
+
+&lt;p&gt;Projede, insanların su tasarrufuna ve dikkatli su kullanımına yönelik farkındalık yaratan etkinlikler ve bu etkinliklerin yanı sıra uluslar arası kültür tanıtımları ve sergileri olmuştur.&lt;/p&gt;
+
+&lt;p&gt;Water İs Life ilk Youth Exchange projem olmuştur. Çok eğlenceli ve eğitici bir proje oldu, farklı ülkelerden halen görüşmeye devam ettiğim dostlarım var. Beni Erasmus+ ile tanıştırdıkları için Karaman Gençlik Kulübü’ne sonsuz teşekkürlerimi sunuyorum. :)&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    
+    &lt;a href=&quot;http://localhost:4000/images/posts/waterislife/waterislife3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/posts/waterislife/waterislife3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://localhost:4000/images/posts/waterislife/waterislife4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/posts/waterislife/waterislife4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://localhost:4000/images/posts/waterislife/waterislife5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/posts/waterislife/waterislife5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://localhost:4000/images/posts/waterislife/waterislife6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/posts/waterislife/waterislife6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Water Is Life&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Erasmus+" /><category term="Gençlik Değişim Projeleri" /><category term="Youth Exchange" /><category term="Project" /><summary type="html">Erasmus+ Uluslararası Gençlik Değişimi</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/waterislife/waterislife.jpg" /></entry></feed>
