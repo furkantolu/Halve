@@ -471,6 +471,8 @@ canvas {
     img {
       width: 50px;
       height: auto;
+      border: 1px solid #f7f7f7;
+      border-radius: 50%;
     }
     &:after {
       display: none;
