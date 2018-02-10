@@ -15,7 +15,7 @@ tags:
 ### Erasmus+ Uluslararası Gençlik Değişimi
 
 <figure class="figure">
-    <a href="/images/posts/waterislife/waterislife2.jpg"><img src="/images/posts/waterislife/waterislife2.jpg"></a>
+    <img href="/images/posts/waterislife/waterislife2.jpg" src="/images/posts/waterislife/waterislife2.jpg">
     <figcaption>Karaman Taşkale Gezisi</figcaption>
 </figure>
 
