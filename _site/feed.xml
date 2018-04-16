@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-11T02:42:36+03:00</updated><id>http://localhost:4000/</id><title type="html">Furkan Tolu</title><subtitle>Frontend Developer</subtitle><entry><title type="html">Water Is Life</title><link href="http://localhost:4000/water-is-life/" rel="alternate" type="text/html" title="Water Is Life" /><published>2018-02-10T00:00:00+03:00</published><updated>2018-02-10T00:00:00+03:00</updated><id>http://localhost:4000/water-is-life</id><content type="html" xml:base="http://localhost:4000/water-is-life/">&lt;h3 id=&quot;erasmus-uluslararası-gençlik-değişimi&quot;&gt;Erasmus+ Uluslararası Gençlik Değişimi&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-16T04:13:53+03:00</updated><id>http://localhost:4000/</id><title type="html">Furkan Tolu</title><subtitle>Frontend Developer</subtitle><entry><title type="html">Water Is Life</title><link href="http://localhost:4000/water-is-life/" rel="alternate" type="text/html" title="Water Is Life" /><published>2018-02-10T00:00:00+03:00</published><updated>2018-02-10T00:00:00+03:00</updated><id>http://localhost:4000/water-is-life</id><content type="html" xml:base="http://localhost:4000/water-is-life/">&lt;h3 id=&quot;erasmus-uluslararası-gençlik-değişimi&quot;&gt;Erasmus+ Uluslararası Gençlik Değişimi&lt;/h3&gt;
 
 &lt;figure class=&quot;figure&quot;&gt;
     &lt;a href=&quot;/images/posts/waterislife/waterislife2.JPG&quot;&gt;&lt;img src=&quot;/images/posts/waterislife/waterislife2.JPG&quot; /&gt;&lt;/a&gt;
@@ -19,4 +19,38 @@
     &lt;a href=&quot;/images/posts/waterislife/waterislife5.JPG&quot;&gt;&lt;img src=&quot;/images/posts/waterislife/waterislife5.JPG&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;/images/posts/waterislife/waterislife6.JPG&quot;&gt;&lt;img src=&quot;/images/posts/waterislife/waterislife6.JPG&quot; /&gt;&lt;/a&gt;
     &lt;figcaption&gt;Water Is Life&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name></name></author><category term="Erasmus+" /><category term="Gençlik Değişim Projeleri" /><category term="Youth Exchange" /><category term="Project" /><summary type="html">Erasmus+ Uluslararası Gençlik Değişimi</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/waterislife/waterislife.jpg" /></entry></feed>
+&lt;/figure&gt;</content><author><name></name></author><category term="Erasmus+" /><category term="Gençlik Değişim Projeleri" /><category term="Youth Exchange" /><category term="Project" /><summary type="html">Erasmus+ Uluslararası Gençlik Değişimi</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/waterislife/waterislife.jpg" /></entry><entry><title type="html">Yarını Kodlayanlar Mersin Eğitmen Eğitimi</title><link href="http://localhost:4000/habitat-mersin-egitmen-egitimi/" rel="alternate" type="text/html" title="Yarını Kodlayanlar Mersin Eğitmen Eğitimi" /><published>2017-09-28T00:00:00+03:00</published><updated>2017-09-28T00:00:00+03:00</updated><id>http://localhost:4000/habitat-mersin-egitmen-egitimi-</id><content type="html" xml:base="http://localhost:4000/habitat-mersin-egitmen-egitimi/">&lt;h3 id=&quot;yarını-kodlayanlar-mersin-eğitmen-eğitimi&quot;&gt;Yarını Kodlayanlar Mersin Eğitmen Eğitimi&lt;/h3&gt;
+
+&lt;figure class=&quot;figure&quot;&gt;
+    &lt;a href=&quot;/images/posts/habitatmersin/foto5.jpg&quot;&gt;&lt;img src=&quot;/images/posts/habitatmersin/foto5.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Mersin Eğitmen Eğitimi&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt; “Yarını Kodlayanlar” &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Türkiye Vodafone Vakfı ve Habitat, Türkiye’nin dijital dönüşümüne öncülük etmek ve genç nesilleri eğitimle güçlendirerek kodlama bilincini yaymak için bir araya geldi.&lt;/p&gt;
+
+&lt;p&gt;“Yarını Kodlayanlar” projesindeki eğitimler sayesinde çocuklarımız sadece teknoloji tüketicisi olmayıp yeni teknoloji ya da dijital eser yaratmanın yollarını öğreniyor. Proje bu yönüyle kodlama, liderliğini yaptığımız Dijital Dönüşüm vizyonuyla da doğrudan örtüşüyor.&lt;/p&gt;
+
+&lt;p&gt;Proje kapsamında verdiğimiz eğitimlerde çocuklara 4 temel değeri öğretmeyi hedefliyoruz:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;
+-Hayal et,
+-Tasarla,
+-Yap
+-Paylaş.
+&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bu değerler, “kendin yap” kültürünün de temelini oluşturuyor. Yeni fikirler her zaman hayal etmekle başlar. Çocuklarımızın hayal gücünü harekete geçirmeyi hedefliyoruz. Onlara hayal ettikleri düşünceleri tasarlama imkânı sunuyoruz.&lt;/p&gt;
+
+&lt;p&gt;Uygulama illerimizde 7-14 yaş arasındaki çocuklara, 4 saat boyunca “Scratch” programlama dili eğitimleri gerçekleştiriyoruz. Bununla birlikte çocukların yaratıcı düşünme becerileri ile algoritmaya ve kodlamaya giriş yapmalarını sağlıyoruz. Sonrasında eğitimi alan çocuklarla “Hackathon” etkinlikleri gerçekleştiriyoruz.&lt;/p&gt;
+
+&lt;p&gt;“Yarını Kodlayanlar” Projesi eğitmen eğitimi 28 Eylül – 1 Ekim 2017 tarihleri arasında Mersin’de gerçekleştirildi. Eğitmen eğitimine, proje kapsamında, pilot uygulama illerinden gelen toplam 25 gönüllü eğitmen katıldı. Ben de bu katılımcılardan birtanesi oldum. Gönüllülük esaslı yaptığımız bu işi daha ileriye taşıyacağımızı umuyorum. Miniklerimiz için herşeyi yapmaya hazırız. Onlar bizim geleceğimiz..&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;a href=&quot;/images/posts/habitatmersin/foto1.jpg&quot;&gt;&lt;img src=&quot;/images/posts/habitatmersin/foto1.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;/images/posts/habitatmersin/foto2.jpg&quot;&gt;&lt;img src=&quot;/images/posts/habitatmersin/foto2.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;/images/posts/habitatmersin/foto3.jpg&quot;&gt;&lt;img src=&quot;/images/posts/habitatmersin/foto3.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;/images/posts/habitatmersin/foto4.jpg&quot;&gt;&lt;img src=&quot;/images/posts/habitatmersin/foto4.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Habitat Yarını Kodlayanlar Mersin Eğitmen Eğitimi&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Habitat Derneği" /><category term="Scratch ve Mbot Eğitimleri" /><category term="Türkiye Vodafone Vakfı" /><category term="Proje" /><category term="Yarını Kodlayanlar" /><category term="Mersin Eğitmen Eğitimi" /><summary type="html">Yarını Kodlayanlar Mersin Eğitmen Eğitimi</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/habitatmersin/cover.jpg" /></entry></feed>
