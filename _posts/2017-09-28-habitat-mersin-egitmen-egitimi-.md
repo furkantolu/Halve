@@ -3,7 +3,7 @@ layout: post
 date:   2017-09-28
 title: "Yarını Kodlayanlar Mersin Eğitmen Eğitimi"
 categories:
-  - Erasmus+
+  - Habitat Derneği
 image: /images/posts/habitatmersin/cover.jpg
 tags:
   - Habitat Derneği
