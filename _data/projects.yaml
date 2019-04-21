@@ -1,76 +1,177 @@
 - title: "Cadde Cafe & Brasserie"
   category: "Logo Tasarımı"
   url: https://www.facebook.com/CafeCaddeBistro
-  image: images/caddelogo.jpg
+  image: images/web/caddelogo.jpg
   completed: true
 
 - title: "Sami Orman Ürünleri"
   category: "Kurumsal Kimlik Çalışması"
   url: http://samiormanurunleri.com
-  image: images/mockup1.jpg
+  image: images/web/sami.jpg
   completed: true
 
 - title: "Erdemler Mimarlık"
-  category: "Kartvizit Tasarımı"
+  category: "Logo ve Kartvizit Tasarımı"
   url: http://furkantolu.net
-  image: images/erdemler.jpg
+  image: images/web/erdemler.jpg
   completed: false
 
 - title: "Tulpar Group"
   category: "Logo Tasarımı"
   url: https://www.facebook.com/Tulparyapi33
-  image: images/tulpar.jpg
+  image: images/web/tulpar.jpg
   completed: true
 
-- title: "Sapmazoğlu Metal"
+- title: "ARC Sport Store"
   category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/sapmazoglu.jpg
+  url: https://www.instagram.com/arcsportstore/
+  image: images/web/arcsport.jpg
+  completed: true
+
+- title: "Lime Media"
+  category: "Kartvizit Tasarımı"
+  url: 
+  image: images/web/lime.jpg
+  completed: false
+
+- title: "Toscana Pizza"
+  category: "Logo Tasarımı"
+  url: https://www.instagram.com/toscanatr/
+  image: images/web/toscana.jpg
   completed: false
 
 - title: "Water Is Life Erasmus+"
   category: "Video Montajı"
   url: https://www.youtube.com/watch?v=44hEKyaM-RA
-  image: images/waterislife.jpg
+  image: images/web/waterislife.jpg
   completed: true
 
-- title: "Toscana Pizza"
+- title: "Mono Craft Coffee & Waffle"
+  category: "Sosyal Medya Danışmanlığı"
+  url: https://www.instagram.com/monocraftwaffle/
+  image: images/web/mono.jpg
+  completed: true
+
+- title: "Ayfa Lüx Banyo Aksesuarları"
+  category: "Kurumsal Web Sitesi"
+  url: http://ayfabanyo.com/
+  image: images/web/ayfabanyo.jpg
+  completed: true
+
+- title: "Homeart İnşaat"
+  category: "Raket Pano Tasarımı"
+  url: http://furkantolu.net/
+  image: images/web/homeart.jpg
+  completed: false
+
+- title: "Paksoy Kırtasiye"
+  category: "Kağıt Çanta Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/paksoy.jpg
+  completed: false
+
+- title: "Yalçınkaya Halı"
+  category: "Kurumsal Web Sitesi"
+  url: http://yalcinkayahali.com.tr/
+  image: images/web/yalcinkaya.jpg
+  completed: true
+
+- title: "Selge Halı"
+  category: "Kurumsal Web Sitesi"
+  url: http://selgehali.com.tr/
+  image: images/web/selge.jpg
+  completed: true
+
+- title: "Engin Balıkçılık"
   category: "Logo Tasarımı"
   url: http://furkantolu.net
-  image: images/toscana.jpg
+  image: images/web/engin.jpg
   completed: false
 
-- title: "Şimşek Reklam"
+- title: "Cadde Playstation Cafe"
   category: "Logo Tasarımı"
-  url: http://samiormanurunleri.com
-  image: images/simsekreklam.jpg
+  url: http://furkantolu.net
+  image: images/web/caddeplay.jpg
+  completed: false
+
+- title: "Erdemli Sanat Atölyesi"
+  category: "Logo Tasarımı"
+  url: https://www.facebook.com/pages/biz/Erdemli-SANAT-At%C3%B6lyesi-172288956500505/
+  image: images/web/esa.jpg
+  completed: true
+
+- title: "Erdemli Tarım Sempozyumu"
+  category: "Poster Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/erdemlitarim.jpg
+  completed: false
+
+- title: "Gündüzler Tarım ve İş Makineleri"
+  category: "Logo Tasarımı"
+  url: http://www.gunduzlerismakineleri.com/
+  image: images/web/gunduzler.jpg
+  completed: true
+
+- title: "BN Termal Hotel"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/bntermal.jpg
+  completed: false
+
+- title: "Heran Çiçekcilik"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/heran.jpg
+  completed: false
+
+- title: "Arke Fruit"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/arke.jpg
   completed: false
 
 
-  
+
+- title: "İmran Sanat Evi"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/imran.jpg
+  completed: false
+
+- title: "Tunahan Ertem"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/tunahan.jpg
+  completed: false
+
+- title: "Monote"
+  category: "Arayüz Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/monote.jpg
+  completed: false
+
+- title: "Osmanoğlu Halıcılık"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/osmanoglu.jpg
+  completed: false
+
+- title: "Digiflak Business"
+  category: "Kapak Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/digiflak.jpg
+  completed: false
 
 
+- title: "Eren İnşaat"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/ereninsaat.jpg
+  completed: false
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- title: "Uğur Özten Photograpy"
+  category: "Logo Tasarımı"
+  url: http://furkantolu.net
+  image: images/web/ugurozten.jpg
+  completed: false
 

@@ -55,7 +55,7 @@ instagram:          furkantolu
 behance:           furkantolu
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist

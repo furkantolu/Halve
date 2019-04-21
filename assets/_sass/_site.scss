@@ -193,6 +193,7 @@ canvas {
       height: 100%;
     }
     a {
+      color: rgba(228, 218, 218, 0.171);
       border: 30px solid transparent;
       background: rgba(0, 0, 0, 0.3);
       position: absolute;
@@ -228,7 +229,7 @@ canvas {
         -o-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
         font-size: 28px;
-        color: $white;
+        color:#fdfdfdbe;
         padding-right: 10px;
         white-space: nowrap;
         text-align: left;
