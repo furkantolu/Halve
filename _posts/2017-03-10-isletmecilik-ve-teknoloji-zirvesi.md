@@ -25,65 +25,65 @@ Etkinlik bilişim, teknoloji ve işletme dünyasının en iyilerini katılımcı
 
 Geleneksek olarak gerçekleştirilen etkinlik Mersin Üniversitesi öğrecileri Erdemli Yüksekokullar Sosyal ve Kültürel Etkinlikler Topluluğu tarafından her yıl daha da geliştirilerek organize ediliyor. Etkinlik Mersin’e bağlı Erdemli ilçesinde, yaklaşık 800 kişinin katılımı ile gerçekleşiyor.
 
-2015 yılında kurucu olarak görev aldığım bu etkinlik şuan, eğitimine devam eden Mersin Üniversite öğrencileri tarafından gerçekleştirilmekte. Bu benim için bir gurur kaynağı. İlk etkinliğimizde sınırlı kaynaklarla zorlanarak organize ettiğimiz etkinlik şuan başka bir boyuta taşındı ve büyüyerek devam ediyor.
+2015 yılında kurucu olarak görev aldığım bu etkinlik şuan, eğitimine devam eden Mersin Üniversite öğrencileri tarafından gerçekleştirilmekte. Bu benim için bir gurur kaynağı. İlk etkinliğimizde sınırlı kaynaklarla organize ettiğimiz etkinlik şuan başka bir boyuta taşındı ve büyüyerek devam ediyor.
 
-2017 yılında gerçekleşen etkinlik sonrasında Yenilikçi Yatırımlar A.Ş CEO’su Ömer TURHAN ile bağlantı kurdum. Kendisi ile yapılan görüşme sonrasında üniversite stajımı yöneticiliğini yaptığı Workcube’te tamamladım ve her yıl komite öğrencileri etkinlik sayesinde gelen konuşmacılar ile bağlantı kuruyor, üniversite bitiminde bir adım öne geçiyorlar. 
+2017 yılında gerçekleşen etkinlik sonrasında Yenilikçi Yatırımlar A.Ş CEO’su Ömer TURHAN ile bağlantı kurdum. Kendisi ile yapılan görüşme sonrasında üniversite stajımı yöneticiliğini yaptığı Workcube’te tamamladım. Her yıl benim gibi komite öğrencileri etkinlik sayesinde gelen konuşmacılar ile bağlantı kuruyor, üniversite bitiminde bir adım öne geçiyorlar. 
 
 Web sitesi: <a href="http://isletmecilikveteknoloji.com" link="http://isletmecilikveteknoloji.com">isletmecilikveteknoloji.com</a> 
 
 <strong>2015 yılı konuşmacıları;</strong>
 
-  <small>Kunter KURT Davranış Bilimleri Uzmanı</small>
-  <small>Uğur ÖZMEN CRM Uzmanı</small>
-  <small>Ramiz Coşkun Dijital Pazarlama Uzmanı</small>
-  <small>Esra AKLAN Akdeniz Çivi İnsan Kaynakları Birim Sorumlusu</small>
-  <small>Şenda Barreto GOMEZ Sheraton Adana Hotel Genel Müdürü</small>
-  <small>Burak BAYCIK Odeabank Adana Genel Müdürü</small>
-  <small>Umut KISA Yönetici Koçu</small>
-  <small>Türkay ÜRKMEZ Yazılım Uzmanı</small>
+  <small>Kunter KURT/Davranış Bilimleri Uzmanı</small>
+  <small>Uğur ÖZMEN/CRM Uzmanı</small>
+  <small>Ramiz COŞKUN/Dijital Pazarlama Uzmanı</small>
+  <small>Esra AKLAN/Akdeniz Çivi İnsan Kaynakları Birim Sorumlusu</small>
+  <small>Şenda Barreto GOMEZ/Sheraton Adana Hotel Genel Müdürü</small>
+  <small>Burak BAYCIK/Odeabank Adana Genel Müdürü</small>
+  <small>Umut KISA/Yönetici Koçu</small>
+  <small>Türkay ÜRKMEZ/Yazılım Uzmanı</small>
   
 <strong>2016 yılı konuşmacıları;</strong>
 
-  <small>Alpay ÖZKAN Biteksam Bilişim Teknolojileri CEO’su</small>
-  <small>Bahtiyar GENÇERO Kariyer.net Bölge Sorumlusu</small>
-  <small>Burhanettin YILDIZ 720 Eğitim ve Danışmanlık Satış Pazarlama Yöneticisi</small>
+  <small>Alpay ÖZKAN/Biteksam Bilişim Teknolojileri CEO’su</small>
+  <small>Bahtiyar GENÇERO/Kariyer.net Bölge Sorumlusu</small>
+  <small>Burhanettin YILDIZ/720 Eğitim ve Danışmanlık Satış Pazarlama Yöneticisi</small>
   <small>Hakan ÇAMOĞLU Mynet/Vidobu Ürün Müdürü</small>
-  <small>İbrahim KIVANÇ Microsoft Türkiye</small>
-  <small>Daron YÖNDEM Microsoft Türkiye </small>
-  <small>Levent YILMAZAY Bilge Adam Bölge Müdürü</small>
+  <small>İbrahim KIVANÇ/Microsoft Türkiye</small>
+  <small>Daron YÖNDEM/Microsoft Türkiye </small>
+  <small>Levent YILMAZAY/Bilge Adam Bölge Müdürü</small>
   
 <strong>2017 yılı konuşmacıları;</strong>
 
-  <small>Neriman ÜLSEVER Sabancı Holding</small>
-  <small>Cavidan DEMİRAĞ Kadın Girişimciler Derneği</small>
-  <small>Kutsal KÖSE Dale Carnegie Akademi</small>
-  <small>Burak Yiğit KAYA Disqus</small>
-  <small>Ömer TURHAN Yenilikçi Yatırımlar A.Ş</small>
-  <small>Ahmet Turan KÜTÜK BGA Bilgi Güvenliği A.Ş</small>
+  <small>Neriman ÜLSEVER/Sabancı Holding</small>
+  <small>Cavidan DEMİRAĞ/Kadın Girişimciler Derneği</small>
+  <small>Kutsal KÖSE/Dale Carnegie Akademi</small>
+  <small>Burak Yiğit KAYA/Disqus</small>
+  <small>Ömer TURHAN/Yenilikçi Yatırımlar A.Ş</small>
+  <small>Ahmet Turan KÜTÜK/BGA Bilgi Güvenliği A.Ş</small>
 
 <strong>2018 yılı konuşmacıları;</strong>
 
-  <small>Atıf ÜNALDI Businessweek Köşe Yazarı</small>
-  <small>Bülent KUTLU Chief Digital Officer</small>
-  <small>Tuğba BADEMCİ Uğur Böcekleri Derneği Kişisel Gelişim Eğitmeni</small>
-  <small>Daron YÖNDEM Microsoft Regional Director </small>
-  <small>Ahmet Turan KÜTÜK BGA Bilgi Güvenliği A.Ş</small>
-  <small>Halil BOZKURT İş ve Meslek Danışmanı</small>
-  <small>Metin DURMUŞ Aspilsan Yöneticisi</small>
+  <small>Atıf ÜNALDI/Businessweek Köşe Yazarı</small>
+  <small>Bülent KUTLU/Chief Digital Officer</small>
+  <small>Tuğba BADEMCİ/Uğur Böcekleri Derneği Kişisel Gelişim Eğitmeni</small>
+  <small>Daron YÖNDEM/Microsoft Regional Director </small>
+  <small>Ahmet Turan KÜTÜK/BGA Bilgi Güvenliği A.Ş</small>
+  <small>Halil BOZKURT/İş ve Meslek Danışmanı</small>
+  <small>Metin DURMUŞ/Aspilsan Yöneticisi</small>
 
 <strong>2019 yılı konuşmacıları;</strong>
 
-  <small>Fatih BİLGİ ASELSAN Dijital Transformation Executive</small>
-  <small>Kadir KÖYMEN EDELKRONE Founder</small>
-  <small>Tuğba BADEMCİ Uğur Böcekleri Derneği Kişisel Gelişim Eğitmeni</small>
-  <small>Kenan ABDULLAHOĞLU AbdSec Founder</small>
-  <small>Güray YILDIRIM Infinitum Director of System</small>
-  <small>Ahmet Burçin GÜRBÜZ Garage Atlas Founder</small>
-  <small>Kadir KIRMIZI Turna.com CEO</small>
+  <small>Fatih BİLGİ/ASELSAN Dijital Transformation Executive</small>
+  <small>Kadir KÖYMEN/EDELKRONE Founder</small>
+  <small>Tuğba BADEMCİ/Uğur Böcekleri Derneği Kişisel Gelişim Eğitmeni</small>
+  <small>Kenan ABDULLAHOĞLU/AbdSec Founder</small>
+  <small>Güray YILDIRIM/Infinitum Director of System</small>
+  <small>Ahmet Burçin GÜRBÜZ/Garage Atlas Founder</small>
+  <small>Kadir KIRMIZI/Turna.com CEO</small>
   
 
 Bu oluşumun bir parçası olmaktan gurur duyuyor ve daha da büyüyeceğine inanıyorum. 
-Sağlıcakla 
+Sağlıcakla :)
 
 
 
