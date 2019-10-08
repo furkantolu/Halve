@@ -13,11 +13,11 @@ tags:
   - Piyade Komando
 ---
 
-### Teğmen Tolu Askerlik Hatırası
+### Teğmen Tolu
 
 <figure class="figure">
     <a href="/images/posts/askerlik/foto1.jpg"><img src="/images/posts/askerlik/foto1.jpg"></a>
-    <figcaption>Teğmen Tolu</figcaption>
+    <figcaption>Asteğmen Tolu</figcaption>
 </figure>
 
 <strong> “Yedek Subay Kimdir?” </strong>
@@ -52,5 +52,5 @@ Vatan borcu ödendi diyenlere inat vatan borcu ödenmez arkadaşlar. Ben bir kı
     <a href="/images/posts/askerlik/foto10.jpg"><img src="/images/posts/askerlik/foto10.jpg"></a>
     <a href="/images/posts/askerlik/foto11.jpg"><img src="/images/posts/askerlik/foto11.jpg"></a>
     <a href="/images/posts/askerlik/foto12.jpg"><img src="/images/posts/askerlik/foto12.jpg"></a>
-    <figcaption>Hakkari, Şemdinli, Tekeli, Şehit Sercan Fidan Üs Bölgesi Askerlik Anıları</figcaption>
+    <figcaption>Eğirdir ve Şemdinli'den fotoğraflar</figcaption>
 </figure>
