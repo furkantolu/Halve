@@ -112,36 +112,10 @@
   image: images/web/gunduzler.jpg
   completed: true
 
-- title: "BN Termal Hotel"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/bntermal.jpg
-  completed: false
-
-- title: "Heran Çiçekcilik"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/heran.jpg
-  completed: false
-
 - title: "Arke Fruit"
   category: "Logo Tasarımı"
   url: http://furkantolu.net
   image: images/web/arke.jpg
-  completed: false
-
-
-
-- title: "İmran Sanat Evi"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/imran.jpg
-  completed: false
-
-- title: "Tunahan Ertem"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/tunahan.jpg
   completed: false
 
 - title: "Monote"
@@ -156,22 +130,11 @@
   image: images/web/osmanoglu.jpg
   completed: false
 
-- title: "Digiflak Business"
-  category: "Kapak Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/digiflak.jpg
-  completed: false
-
-
 - title: "Eren İnşaat"
   category: "Logo Tasarımı"
   url: http://furkantolu.net
   image: images/web/ereninsaat.jpg
   completed: false
 
-- title: "Uğur Özten Photograpy"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/ugurozten.jpg
-  completed: false
+
 
