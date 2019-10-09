@@ -1,7 +1,13 @@
-- title: " "
+- title: ""
   category: ""
   url: https://www.behance.net/furkantolu
   image: images/web/behance.jpg
+  completed: true
+
+- title: "Giraffe UI"
+  category: "Logo ve UI Tasarımı"
+  url: https://www.behance.net/gallery/86509739/Giraffe-Ecommerce-App-UI-Design
+  image: images/web/giraffe.jpg
   completed: true
 
 - title: "Mono Craft Coffee & Waffle"
@@ -14,12 +20,18 @@
   category: "Logo Tasarımı"
   url: https://www.facebook.com/CafeCaddeBistro
   image: images/web/caddelogo.jpg
-  completed: true
+  completed: false
 
 - title: "Sami Orman Ürünleri"
   category: "Kurumsal Kimlik Çalışması"
   url: http://samiormanurunleri.com
   image: images/web/sami.jpg
+  completed: true
+
+- title: "Navan"
+  category: "Logo ve Ambalaj Tasarımı"
+  url: https://www.behance.net/gallery/86428633/Navan-Logo-and-Package-Design
+  image: images/web/navan.jpg
   completed: true
 
 - title: "Erdemler Mimarlık"
@@ -32,11 +44,11 @@
   category: "Logo Tasarımı"
   url: https://www.facebook.com/Tulparyapi33
   image: images/web/tulpar.jpg
-  completed: true
+  completed: false
 
 - title: "ARC Sport Store"
   category: "Logo Tasarımı"
-  url: https://www.instagram.com/arcsportstore/
+  url: https://www.behance.net/gallery/86596945/Arc-Sport-Store-Logo-Design
   image: images/web/arcsport.jpg
   completed: true
 
@@ -46,31 +58,11 @@
   image: images/web/lime.jpg
   completed: false
 
-- title: "Toscana Pizza"
-  category: "Logo Tasarımı"
-  url: https://www.instagram.com/toscanatr/
-  image: images/web/toscana.jpg
-  completed: false
-
-- title: "Water Is Life Erasmus+"
-  category: "Video Montajı"
-  url: https://www.youtube.com/watch?v=44hEKyaM-RA
-  image: images/web/waterislife.jpg
-  completed: true
-
-
-
 - title: "Ayfa Lüx Banyo Aksesuarları"
   category: "Kurumsal Web Sitesi"
   url: http://ayfabanyo.com/
   image: images/web/ayfabanyo.jpg
   completed: true
-
-- title: "Homeart İnşaat"
-  category: "Raket Pano Tasarımı"
-  url: http://furkantolu.net/
-  image: images/web/homeart.jpg
-  completed: false
 
 - title: "Paksoy Kırtasiye"
   category: "Kağıt Çanta Tasarımı"
@@ -78,71 +70,28 @@
   image: images/web/paksoy.jpg
   completed: false
 
-- title: "Yalçınkaya Halı"
-  category: "Kurumsal Web Sitesi"
-  url: http://yalcinkayahali.com.tr/
-  image: images/web/yalcinkaya.jpg
-  completed: true
-
 - title: "Selge Halı"
   category: "Kurumsal Web Sitesi"
   url: http://selgehali.com.tr/
   image: images/web/selge.jpg
   completed: true
 
-- title: "Engin Balıkçılık"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/engin.jpg
-  completed: false
-
-- title: "Cadde Playstation Cafe"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/caddeplay.jpg
-  completed: false
-
-- title: "Erdemli Sanat Atölyesi"
-  category: "Logo Tasarımı"
-  url: https://www.facebook.com/pages/biz/Erdemli-SANAT-At%C3%B6lyesi-172288956500505/
-  image: images/web/esa.jpg
+- title: "Hibou Coffee"
+  category: "Logo ve Ambalaj Tasarımı"
+  url: https://www.behance.net/gallery/86580533/Hibou-Coffee-Logo-and-Package-Design
+  image: images/web/hibou.jpg
   completed: true
 
-- title: "Erdemli Tarım Sempozyumu"
-  category: "Poster Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/erdemlitarim.jpg
-  completed: false
-
-- title: "Gündüzler Tarım ve İş Makineleri"
-  category: "Logo Tasarımı"
-  url: http://www.gunduzlerismakineleri.com/
-  image: images/web/gunduzler.jpg
+- title: "Yalçınkaya Halı"
+  category: "Kurumsal Web Sitesi"
+  url: http://yalcinkayahali.com.tr/
+  image: images/web/yalcinkaya.jpg
   completed: true
-
-- title: "Arke Fruit"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/arke.jpg
-  completed: false
-
-- title: "Monote"
-  category: "Arayüz Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/monote.jpg
-  completed: false
 
 - title: "Osmanoğlu Halıcılık"
   category: "Logo Tasarımı"
   url: http://furkantolu.net
   image: images/web/osmanoglu.jpg
   completed: false
-
-- title: "Eren İnşaat"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/ereninsaat.jpg
-  completed: false
-
 
 

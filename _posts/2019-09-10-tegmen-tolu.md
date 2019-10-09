@@ -34,7 +34,7 @@ Neyse, Yedek Subay olarak alınacağımı öğrendim. Piyade Komando Asteğmen o
 
 Benim devre grubum 290 kişiydi, aralarında derece yapamadım. Çok zorlu ama çok eğlenceli zamanlar geçirdim. Ocak ayında nasbımız geldi ve Asteğmen rütbesi taktık. Rütbe takma töreninden sonra kura çekme işlemi yapıldı, Devre grubundan çoğunluk doğu bölgesine atandı. Bana Hakkari Şemdinli 34. Hudut Tugayı Tekeli Taburu çıktı. Birliğim adını veremeyeceğim bir Üs Bölgesindeydi. Yaklaşık 22 günlük bir yolculuk sonrası birliğime gittim. Görev yaptığım yerde yaklaşık 8-9 m kar vardı ve hayatımda ilk kez o kadar kar gördüm. Kış haziran ayında son buldu, hesabı size bırakayım. Görev yaptığım süreç içerisinde Pençe-2 operasyonunda rol aldım, bu benim için bir gurur. Herşeyi burada anlatamıyorum malesef.
 
-Neyse askerliğimin bitmesine yakın Teğmen rütbesi taktım, acısıyla ve tatlısıyla geçen bir yıl.. Birçok arkadaşım oldu, kullanmadığım silah kalmadı diyebilirim mesela. 1 ay duş alamadım, Kumanyalardan soğudum gibi gibi.. 
+Neyse askerliğimin bitmesine yakın Teğmen rütbesi taktım, acısıyla ve tatlısıyla geçen bir yıl.. 
 
 Vatan borcu ödendi diyenlere inat vatan borcu ödenmez arkadaşlar. Ben bir kısmını yerine getirdim. Benim için bir şerefti! Orada, o dağlarda birileri var. Ne şartlarda olduğunu bilmediğimiz birileri. Geride bıraktığım kardeşlerimi Allah'a emanet ediyorum.
 
