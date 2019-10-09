@@ -1,3 +1,15 @@
+- title: " "
+  category: ""
+  url: https://www.behance.net/furkantolu
+  image: images/web/behance.jpg
+  completed: true
+
+- title: "Mono Craft Coffee & Waffle"
+  category: "Sosyal Medya Danışmanlığı"
+  url: https://www.instagram.com/monocraftwaffle/
+  image: images/web/mono.jpg
+  completed: true
+
 - title: "Cadde Cafe & Brasserie"
   category: "Logo Tasarımı"
   url: https://www.facebook.com/CafeCaddeBistro
@@ -46,11 +58,7 @@
   image: images/web/waterislife.jpg
   completed: true
 
-- title: "Mono Craft Coffee & Waffle"
-  category: "Sosyal Medya Danışmanlığı"
-  url: https://www.instagram.com/monocraftwaffle/
-  image: images/web/mono.jpg
-  completed: true
+
 
 - title: "Ayfa Lüx Banyo Aksesuarları"
   category: "Kurumsal Web Sitesi"
