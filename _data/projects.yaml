@@ -1,10 +1,10 @@
-- title: ""
-  category: ""
-  url: https://www.behance.net/furkantolu
-  image: images/web/behance.jpg
+- title: "To Do List App "
+  category: "UI Tasarımı"
+  url: https://www.behance.net/gallery/86807493/To-Do-List-App-UI-Design
+  image: images/web/todo.jpg
   completed: true
 
-- title: "Giraffe UI"
+- title: "Giraffe App"
   category: "Logo ve UI Tasarımı"
   url: https://www.behance.net/gallery/86509739/Giraffe-Ecommerce-App-UI-Design
   image: images/web/giraffe.jpg
@@ -22,10 +22,10 @@
   image: images/web/caddelogo.jpg
   completed: false
 
-- title: "Sami Orman Ürünleri"
-  category: "Kurumsal Kimlik Çalışması"
-  url: http://samiormanurunleri.com
-  image: images/web/sami.jpg
+  - title: "ARC Sport Store"
+  category: "Logo Tasarımı"
+  url: https://www.behance.net/gallery/86596945/Arc-Sport-Store-Logo-Design
+  image: images/web/arcsport.jpg
   completed: true
 
 - title: "Navan"
@@ -46,10 +46,10 @@
   image: images/web/tulpar.jpg
   completed: false
 
-- title: "ARC Sport Store"
-  category: "Logo Tasarımı"
-  url: https://www.behance.net/gallery/86596945/Arc-Sport-Store-Logo-Design
-  image: images/web/arcsport.jpg
+- title: "Hibou Coffee"
+  category: "Logo ve Ambalaj Tasarımı"
+  url: https://www.behance.net/gallery/86580533/Hibou-Coffee-Logo-and-Package-Design
+  image: images/web/hibou.jpg
   completed: true
 
 - title: "Lime Media"
@@ -70,28 +70,8 @@
   image: images/web/paksoy.jpg
   completed: false
 
-- title: "Selge Halı"
-  category: "Kurumsal Web Sitesi"
-  url: http://selgehali.com.tr/
-  image: images/web/selge.jpg
+- title: "Sami Orman Ürünleri"
+  category: "Kurumsal Kimlik Çalışması"
+  url: http://samiormanurunleri.com
+  image: images/web/sami.jpg
   completed: true
-
-- title: "Hibou Coffee"
-  category: "Logo ve Ambalaj Tasarımı"
-  url: https://www.behance.net/gallery/86580533/Hibou-Coffee-Logo-and-Package-Design
-  image: images/web/hibou.jpg
-  completed: true
-
-- title: "Yalçınkaya Halı"
-  category: "Kurumsal Web Sitesi"
-  url: http://yalcinkayahali.com.tr/
-  image: images/web/yalcinkaya.jpg
-  completed: true
-
-- title: "Osmanoğlu Halıcılık"
-  category: "Logo Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/osmanoglu.jpg
-  completed: false
-
-
