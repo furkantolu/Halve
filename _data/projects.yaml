@@ -18,11 +18,11 @@
 
 - title: "Cadde Cafe & Brasserie"
   category: "Logo Tasarımı"
-  url: https://www.facebook.com/CafeCaddeBistro
+  url: https://www.facebook.com/CafeCaddeBistro/
   image: images/web/caddelogo.jpg
   completed: false
 
-  - title: "ARC Sport Store"
+- title: "ARC Sport Store"
   category: "Logo Tasarımı"
   url: https://www.behance.net/gallery/86596945/Arc-Sport-Store-Logo-Design
   image: images/web/arcsport.jpg
