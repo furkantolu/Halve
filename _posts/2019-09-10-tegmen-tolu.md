@@ -26,17 +26,16 @@ Mesleği askerlik olmayan, yasalara göre askerlik ödevini bir yıl orduda suba
 
 <strong> “Yolculuk” </strong>
 
-2018 yılında Mersin Üniversitesi, Bilgisayar Teknolojileri ve Bilişim Sistemleri bölümünden mezun oldum. Mezun olmadan önce iş bulma konusunda zorlanacağımı tahmin etmiyordum. Ama öyle olmadı, mezuniyet sürecinden sonra yaklaşık 4 ay kadar aktif olarak iş aradım. Piyasaların dengesizliği ve ekonomik kriz başta olmak üzere birçok sebepten dolayı uygun bir iş bulamadım. Daha sonra tecilimi bozdurup askere gitmeye karar verdim. 
+2018 yılında askerlik hizmetimi tamamlamaya karar verdim. E-devlet üzerinden yaptığım başvuru ile tecilimi bozdurdum. Başvuru sırasında bana Yedek Subay ve Komando olmak ister misin diye soruldu. Ben ikisine de evet dedim. Herkese Y.S. hakkı verilmeyebilir. Bunun seçiminde dikkate alınan bir çok etken var. Mezun olunan bölüm, not ortalaması, boy ve kilo, sağlık durumu gibi.. Lisans mezunu olmak zorunluluk. Ağustos ayında yaptığım bu işlemin sonucu 23 Ekim de açıklandı. Sistem üzerinden kontrol ettiğimde Yedek Subay Adayı olarak Eğirdir Dağ Komando Okuluna gideceğimi öğrendim.
 
-Tecil bozma işlemi e-devlet üzerinden gerçekleştiriyorsunuz ve işlem yapılırken lisans mezunlarına Yedek Subay ve Komando tercihleri soruluyor. Ben her ikisine de evet dedim. Merak eden Asteğmen adayı arkadaşlar için, seçim yapılmadan önce boy, kilo, mezun olunan program, not ortalaması ve sağlık gibi birçok durum dikkate alınıyor. Ben 1,78 cm boyunda, 64 kg ağırlığındayım, herhangi bir rahatsızlığım yok. 2,45 not ortalamasına sahibim. 
+1 Kasımda okula girişimi yaptım. 300 kişilik bir devre grubu ile eğitim aldık. 373. Dönem Asteğmenlerindenim. Yoğun ve yorucu geçen eğitim sonrasında Yedek Subay olmaya hak kazandım. Rütbe taktım. Komando brövesini de almaya hak kazandım. Çektiğimiz kura sonucunda benim atamam Hakkari 34. Hudut Tugayı Şemdinli Tekeli taburuna yapıldı. Ocak ayında yaptığım 15 günlük mehil izni sonrasında birliğime gitmek için yola çıktım. 22 günlük bir süreçten sonra birliğimde göreve başladım. 
 
-Neyse, Yedek Subay olarak alınacağımı öğrendim. Piyade Komando Asteğmen olacaktım. Gideceğim yer Eğirdir Dağ Komando Okulu. Burada yaklaşık 3 ay kadar eğitim veriliyor. Temel askerlik eğitiminden tutun dağcılık, bes, silah ve pusu, harita, mayın eyp ve meskun mahal gibi bir çok eğitim veriliyor. Kurs, Komando Temel Kursu olarak geçiyor ve başarı ile bitirenler komando brövesi ile birlikte MSÜ mezunu olarak kıtalarına katılıyor. Eğirdir çetin yer ve ayrı bir soğuğu var, aklınızda olsun. Sonuçta komando olacaksınız :) 
+Eğitimden sonra 8 aylık bir süreçte Asteğmen rütbesi ile görev aldım, daha sonra Teğmen rütbesine terfi edildim. Askerliğini Y.S. olarak yapan arkadaşlar, sigorta-maaş gibi haklara sahipler. Doğuda görev yapan arkadaşlar, görevbölgesine göre maaşa ek tazminat alırlar. Birliğe göre değişen mazeret, yol ve normal izinleri vardır. Kullanmadıkları sürece terhis iznine çıkarlar. Yani tam bir yılı bitirmeden askerlikleri bitmiş olur. ben 12 gün izin kullandım.
 
-Benim devre grubum 290 kişiydi, aralarında derece yapamadım. Çok zorlu ama çok eğlenceli zamanlar geçirdim. Ocak ayında nasbımız geldi ve Asteğmen rütbesi taktık. Rütbe takma töreninden sonra kura çekme işlemi yapıldı, Devre grubundan çoğunluk doğu bölgesine atandı. Bana Hakkari Şemdinli 34. Hudut Tugayı Tekeli Taburu çıktı. Birliğim adını veremeyeceğim bir Üs Bölgesindeydi. Yaklaşık 22 günlük bir yolculuk sonrası birliğime gittim. Görev yaptığım yerde yaklaşık 8-9 m kar vardı ve hayatımda ilk kez o kadar kar gördüm. Kış haziran ayında son buldu, hesabı size bırakayım. Görev yaptığım süreç içerisinde Pençe-2 operasyonunda rol aldım, bu benim için bir gurur. Herşeyi burada anlatamıyorum malesef.
+Görev aldıkları süre içerisinde gelen emirler doğrultusunda Muvazzaf Subay olarak askerde kalabilirler. Bunun için çeşitli sınavlardan başarılı olmaları beklenir. Başarılı oldukları takdirde, askerlik bitimine müteakip kursa çağırılırlar.
 
-Neyse askerliğimin bitmesine yakın Teğmen rütbesi taktım, acısıyla ve tatlısıyla geçen bir yıl.. 
+Sorusu olan arkadaşlar yazabilirler..
 
-Vatan borcu ödendi diyenlere inat vatan borcu ödenmez arkadaşlar. Ben bir kısmını yerine getirdim. Benim için bir şerefti! Orada, o dağlarda birileri var. Ne şartlarda olduğunu bilmediğimiz birileri. Geride bıraktığım kardeşlerimi Allah'a emanet ediyorum.
 
 
 
