@@ -40,17 +40,19 @@
   image: images/web/erdemler.jpg
   completed: false
 
-- title: "Tulpar Group"
-  category: "Logo Tasarımı"
-  url: https://www.facebook.com/Tulparyapi33
-  image: images/web/tulpar.jpg
-  completed: false
-
 - title: "Hibou Coffee"
   category: "Logo ve Ambalaj Tasarımı"
   url: https://www.behance.net/gallery/86580533/Hibou-Coffee-Logo-and-Package-Design
   image: images/web/hibou.jpg
   completed: true
+  
+- title: "Non"
+  category: "Font Tasarımı"
+  url: https://www.behance.net/gallery/87111475/NON-Font-Design
+  image: images/web/font.jpg
+  completed: true
+
+
 
 - title: "Lime Media"
   category: "Kartvizit Tasarımı"
