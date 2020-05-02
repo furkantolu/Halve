@@ -28,26 +28,26 @@ Selamlar bu yazımda 10 günlük basit bir artış oranı tahmini nasıl yapıl�
 
 Başlamadan <a href="https://mran.microsoft.com/download" link="https://mran.microsoft.com/download">Microsoft R Open</a> kurulumu yapınız.
 
-Kodlarınızı <a href="https://rstudio.com/" link="https://rstudio.com/">R Studio</a> içerisinde de yazıp daha sonra Power BI içerisine alabilirsiniz.
+Kodlarınızı <a href="https://rstudio.com/" link="https://rstudio.com/">R Studio</a> içerisinde yazıp daha sonra Power BI içerisine alabilirsiniz.
 
-Power BI üzerinde veri al seçeneği ile csv dosyamızı içeri alıyoruz.
+Power BI içerisinde "Get Data" seçeneği ile csv dosyamızı içeri alıyoruz.
 
  <a href="/images/posts/powerbi/p2.png"><img src="/images/posts/powerbi/p2.png"></a>
 
-Burada başlamadan `null` olan verileri `0` ile yenileyeceğiz. Transform Data seçeneği ile Power Query Editor’e gidiyoruz.
+Başlamadan `null` olan verileri `0` ile yenileyeceğiz. "Transform Data" seçeneği ile Power Query Editor’e gidiyoruz.
 
  <a href="/images/posts/powerbi/p3.png"><img src="/images/posts/powerbi/p3.png"></a>
 
- Replace Values seçeneğine tıklayarak `Null` olan değerleri `0` ile değiştireceğiz.
+ "Replace Values" seçeneğine tıklayarak `Null` olan değerleri `0` ile değiştireceğiz.
 
  <a href="/images/posts/powerbi/p4.png"><img src="/images/posts/powerbi/p4.png"></a>
 
- İşlemi gerçekleştirdikten sonra `Close&Apply` seçeneği ile Power BI arayüzümüzü açıyoruz.
+ İşlemi gerçekleştirdikten sonra "Close&Apply" seçeneği ile Power BI arayüzümüzü açıyoruz.
  Verilerimiz bu şekilde;
 
 <a href="/images/posts/powerbi/p5.png"><img src="/images/posts/powerbi/p5.png"></a>
 
-Yeni bir R Script Visual ekleyelim, Date ve Increase rate alanlarını ekleyerek devam edelim.
+Yeni bir R Script Visual ekleyelim, "Date" ve "Increase rate" alanlarını ekleyerek devam edelim.
 
 <a href="/images/posts/powerbi/p6.png"><img src="/images/posts/powerbi/p6.png"></a>
 

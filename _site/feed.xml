@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-02T23:20:58+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Furkan Tolu</title><subtitle>Business Intelligence Consultant</subtitle><entry><title type="html">Power BI ve R ile 10 Günlük Covid-19 Forecast</title><link href="http://localhost:4000/covid-forecast/" rel="alternate" type="text/html" title="Power BI ve R ile 10 Günlük Covid-19 Forecast" /><published>2020-05-01T00:00:00+03:00</published><updated>2020-05-01T00:00:00+03:00</updated><id>http://localhost:4000/covid-forecast</id><content type="html" xml:base="http://localhost:4000/covid-forecast/">&lt;h3 id=&quot;10-günlük-covid-19-artış-oranı-forecast&quot;&gt;10 günlük Covid-19 Artış Oranı Forecast&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-02T23:34:40+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Furkan Tolu</title><subtitle>Business Intelligence Consultant</subtitle><entry><title type="html">Power BI ve R ile 10 Günlük Covid-19 Forecast</title><link href="http://localhost:4000/covid-forecast/" rel="alternate" type="text/html" title="Power BI ve R ile 10 Günlük Covid-19 Forecast" /><published>2020-05-01T00:00:00+03:00</published><updated>2020-05-01T00:00:00+03:00</updated><id>http://localhost:4000/covid-forecast</id><content type="html" xml:base="http://localhost:4000/covid-forecast/">&lt;h3 id=&quot;10-günlük-covid-19-artış-oranı-forecast&quot;&gt;10 günlük Covid-19 Artış Oranı Forecast&lt;/h3&gt;
 
 &lt;figure class=&quot;figure&quot;&gt;
     &lt;a href=&quot;/images/posts/powerbi/cover.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/cover.png&quot; /&gt;&lt;/a&gt;
@@ -13,26 +13,26 @@
 
 &lt;p&gt;Başlamadan &lt;a href=&quot;https://mran.microsoft.com/download&quot; link=&quot;https://mran.microsoft.com/download&quot;&gt;Microsoft R Open&lt;/a&gt; kurulumu yapınız.&lt;/p&gt;
 
-&lt;p&gt;Kodlarınızı &lt;a href=&quot;https://rstudio.com/&quot; link=&quot;https://rstudio.com/&quot;&gt;R Studio&lt;/a&gt; içerisinde de yazıp daha sonra Power BI içerisine alabilirsiniz.&lt;/p&gt;
+&lt;p&gt;Kodlarınızı &lt;a href=&quot;https://rstudio.com/&quot; link=&quot;https://rstudio.com/&quot;&gt;R Studio&lt;/a&gt; içerisinde yazıp daha sonra Power BI içerisine alabilirsiniz.&lt;/p&gt;
 
-&lt;p&gt;Power BI üzerinde veri al seçeneği ile csv dosyamızı içeri alıyoruz.&lt;/p&gt;
+&lt;p&gt;Power BI içerisinde “Get Data” seçeneği ile csv dosyamızı içeri alıyoruz.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/images/posts/powerbi/p2.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/p2.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Burada başlamadan &lt;code class=&quot;highlighter-rouge&quot;&gt;null&lt;/code&gt; olan verileri &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt; ile yenileyeceğiz. Transform Data seçeneği ile Power Query Editor’e gidiyoruz.&lt;/p&gt;
+&lt;p&gt;Başlamadan &lt;code class=&quot;highlighter-rouge&quot;&gt;null&lt;/code&gt; olan verileri &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt; ile yenileyeceğiz. “Transform Data” seçeneği ile Power Query Editor’e gidiyoruz.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/images/posts/powerbi/p3.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/p3.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Replace Values seçeneğine tıklayarak &lt;code class=&quot;highlighter-rouge&quot;&gt;Null&lt;/code&gt; olan değerleri &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt; ile değiştireceğiz.&lt;/p&gt;
+&lt;p&gt;“Replace Values” seçeneğine tıklayarak &lt;code class=&quot;highlighter-rouge&quot;&gt;Null&lt;/code&gt; olan değerleri &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt; ile değiştireceğiz.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/images/posts/powerbi/p4.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/p4.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;İşlemi gerçekleştirdikten sonra &lt;code class=&quot;highlighter-rouge&quot;&gt;Close&amp;amp;Apply&lt;/code&gt; seçeneği ile Power BI arayüzümüzü açıyoruz.
+&lt;p&gt;İşlemi gerçekleştirdikten sonra “Close&amp;amp;Apply” seçeneği ile Power BI arayüzümüzü açıyoruz.
  Verilerimiz bu şekilde;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/images/posts/powerbi/p5.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/p5.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Yeni bir R Script Visual ekleyelim, Date ve Increase rate alanlarını ekleyerek devam edelim.&lt;/p&gt;
+&lt;p&gt;Yeni bir R Script Visual ekleyelim, “Date” ve “Increase rate” alanlarını ekleyerek devam edelim.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/images/posts/powerbi/p6.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/p6.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
