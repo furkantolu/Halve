@@ -1,7 +1,7 @@
-- title: "To Do List App "
-  category: "UI Tasarımı"
-  url: https://www.behance.net/gallery/86807493/To-Do-List-App-UI-Design
-  image: images/web/todo.jpg
+- title: ""
+  category: ""
+  url: https://www.behance.net/furkantolu
+  image: images/web/behance.jpg
   completed: true
 
 - title: "Giraffe App"
@@ -22,10 +22,10 @@
   image: images/web/caddelogo.jpg
   completed: false
 
-- title: "ARC Sport Store"
-  category: "Logo Tasarımı"
-  url: https://www.behance.net/gallery/86596945/Arc-Sport-Store-Logo-Design
-  image: images/web/arcsport.jpg
+- title: "Bubs Media"
+  category: "Kurumsal Kimlik Tasarımı"
+  url: https://www.behance.net/gallery/93052459/Bubs-media
+  image: images/web/bubs.jpg
   completed: true
 
 - title: "Navan"
@@ -34,11 +34,11 @@
   image: images/web/navan.jpg
   completed: true
 
-- title: "Erdemler Mimarlık"
-  category: "Logo ve Kartvizit Tasarımı"
-  url: http://furkantolu.net
-  image: images/web/erdemler.jpg
-  completed: false
+- title: "ARC Sport Store"
+  category: "Logo Tasarımı"
+  url: https://www.behance.net/gallery/86596945/Arc-Sport-Store-Logo-Design
+  image: images/web/arcsport.jpg
+  completed: true
 
 - title: "Hibou Coffee"
   category: "Logo ve Ambalaj Tasarımı"
@@ -46,13 +46,11 @@
   image: images/web/hibou.jpg
   completed: true
   
-- title: "Non"
-  category: "Font Tasarımı"
-  url: https://www.behance.net/gallery/87111475/NON-Font-Design
-  image: images/web/font.jpg
+- title: "Alegra"
+  category: "Redesign"
+  url: https://www.behance.net/gallery/93027831/Alegraio-UI-Redesign
+  image: images/web/alegra.jpg
   completed: true
-
-
 
 - title: "Lime Media"
   category: "Kartvizit Tasarımı"

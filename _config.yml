@@ -1,6 +1,6 @@
 # Site
 title: Furkan Tolu
-description: Frontend Developer
+description: Business Intelligence Consultant
 url: https://furkantolu.github.io
 logo: logo.png                                       # Site logo
 locale: en_US
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:              furkantoluu@gmail.com
-google.plus:        +FurkanTolu
+#email:              furkantoluu@gmail.com
+#google.plus:        +FurkanTolu
+linkedin:          furkantolu
 twitter:            tolufurkan
 #facebook:           frkntolu
-#github:            username
+github:            furkantolu
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          furkantolu
 #xing:              username
-instagram:          furkantolu
+#instagram:          furkantolu
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
