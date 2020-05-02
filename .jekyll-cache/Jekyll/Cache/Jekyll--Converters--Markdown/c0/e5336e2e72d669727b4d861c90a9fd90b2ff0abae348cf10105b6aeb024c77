@@ -1,0 +1,68 @@
+I":<h3 id="10-günlük-covid-19-artış-oranı-forecast">10 günlük Covid-19 Artış Oranı Forecast</h3>
+
+<figure class="figure">
+    <a href="/images/posts/powerbi/cover.png"><img src="/images/posts/powerbi/cover.png" /></a>
+    <figcaption>Forecast</figcaption>
+</figure>
+
+<p><strong> “Covid-19 ” </strong></p>
+
+<p>Selamlar bu yazımda 10 günlük basit bir artış oranı tahmini nasıl yapılır onu anlatmaya çalışacağım. Elimizde “worldwide-aggregate.csv” adında bir datasetimiz bulunmaktadır. Bu datasetin içinde “Date-Confirmed-Recovered-Deaths-Increase Rate” sütunları bulunmaktadır. Bizim ihtiyacımız olan tarih ve artış oranları olacaktır.</p>
+
+<p><a href="/images/posts/powerbi/p1.png"><img src="/images/posts/powerbi/p1.png" /></a></p>
+
+<p>Başlamadan <a href="https://mran.microsoft.com/download" link="https://mran.microsoft.com/download">Microsoft R Open</a> kurulumu yapınız.</p>
+
+<p>Kodlarınızı <a href="https://rstudio.com/" link="https://rstudio.com/">R Studio</a> içerisinde de yazıp daha sonra Power BI içerisine alabilirsiniz.</p>
+
+<p>Power BI üzerinde veri al seçeneği ile csv dosyamızı içeri alıyoruz.</p>
+
+<p><a href="/images/posts/powerbi/p2.png"><img src="/images/posts/powerbi/p2.png" /></a></p>
+
+<p>Burada başlamadan <code class="highlighter-rouge">null</code> olan verileri <code class="highlighter-rouge">0</code> ile yenileyeceğiz. Transform Data seçeneği ile Power Query Editor’e gidiyoruz.</p>
+
+<p><a href="/images/posts/powerbi/p3.png"><img src="/images/posts/powerbi/p3.png" /></a></p>
+
+<p>Replace Values seçeneğine tıklayarak <code class="highlighter-rouge">Null</code> olan değerleri <code class="highlighter-rouge">0</code> ile değiştireceğiz.</p>
+
+<p><a href="/images/posts/powerbi/p4.png"><img src="/images/posts/powerbi/p4.png" /></a></p>
+
+<p>İşlemi gerçekleştirdikten sonra <code class="highlighter-rouge">Close&amp;Apply</code> seçeneği ile Power BI arayüzümüzü açıyoruz.
+ Verilerimiz bu şekilde;</p>
+
+<p><a href="/images/posts/powerbi/p5.png"><img src="/images/posts/powerbi/p5.png" /></a></p>
+
+<p>Yeni bir R Script Visual ekleyelim, Date ve Increase rate alanlarını ekleyerek devam edelim.</p>
+
+<p><a href="/images/posts/powerbi/p6.png"><img src="/images/posts/powerbi/p6.png" /></a></p>
+
+<p>R scriptlerimizi yazmaya başlayacağız bu işlemi R Studio üzerinde ya da Power BI üzerinde gerçekleştirebilirsiniz. Ben Power BI üzerinde yapacağım.
+Açılan R script editor penceresinde yazmaya başlayalım.
+Eğer daha önce kurulum yapmadıysanız</p>
+
+<p>-<code class="highlighter-rouge">install.packages("forecast")</code></p>
+
+<p>-<code class="highlighter-rouge">install.packages("tseries")</code></p>
+
+<p>paketlerinizi yüklemeniz gerekecektir. Kodlarımız aşağıdaki gibi olacaktır.</p>
+
+<p><a href="/images/posts/powerbi/p7.png"><img src="/images/posts/powerbi/p7.png" /></a></p>
+
+<p><code class="highlighter-rouge">Library(“”)</code> fonksiyonu ile kullanacağımız kütüphaneleri çağırdık.</p>
+
+<p><code class="highlighter-rouge">myTimeSeries &lt;- dataset</code> komutu ile datasetimizi myTimeSeries vektörüne atadık.</p>
+
+<p><code class="highlighter-rouge">as.ts</code> ile bir seriyi zaman serisine dönüştürüyoruz. Argüman olarak X’in 2. Sütununu verdik. Bu işlemi <code class="highlighter-rouge">myX</code> vektörüne verdik.</p>
+
+<p><code class="highlighter-rouge">myForecast &lt;- forecast(holt(myX), h = 10)</code> burada ise 10 günlük bir tahmin alıyor ve myForecast vektörüne atıyoruz.
+<code class="highlighter-rouge">Forecast</code> fonksiyonu gelecekteki verileri tahmin etmek için kullanılıyor.</p>
+
+<p><code class="highlighter-rouge">plot(myForecast, main = "10-day increase rate forecast", ylab="Level", xlab="Day" )</code>
+<code class="highlighter-rouge">plot</code> fonksiyonu ise çizim yapmak için kullanılır. myForeCast’te bulunan verileri plot ile grafik haline getirdik.</p>
+
+<p><a href="/images/posts/powerbi/p8.png"><img src="/images/posts/powerbi/p8.png" /></a></p>
+
+<p>Ortaya çıkan tahminimiz bu şekildedir.</p>
+
+<p>Okuduğunuz için teşekkürler..</p>
+:ET
