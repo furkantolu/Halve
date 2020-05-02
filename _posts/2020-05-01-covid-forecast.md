@@ -13,7 +13,7 @@ tags:
   - Covid-19
 ---
 
-### 10 günlük Covid-19 Artış Oranı Forecast
+### 10 Günlük Covid-19 Artış Oranı Forecast
 
 <figure class="figure">
     <a href="/images/posts/powerbi/cover.png"><img src="/images/posts/powerbi/cover.png"></a>
