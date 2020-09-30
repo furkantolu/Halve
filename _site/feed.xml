@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-30T20:37:25+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Furkan Tolu</title><subtitle>Business Intelligence Consultant</subtitle><entry><title type="html">Power BI ve R ile 10 Günlük Covid-19 Forecast</title><link href="http://localhost:4000/covid-forecast/" rel="alternate" type="text/html" title="Power BI ve R ile 10 Günlük Covid-19 Forecast" /><published>2020-05-01T00:00:00+03:00</published><updated>2020-05-01T00:00:00+03:00</updated><id>http://localhost:4000/covid-forecast</id><content type="html" xml:base="http://localhost:4000/covid-forecast/">&lt;h3 id=&quot;10-günlük-covid-19-artış-oranı-forecast&quot;&gt;10 Günlük Covid-19 Artış Oranı Forecast&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-30T22:06:54+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Furkan Tolu</title><subtitle>Business Intelligence Consultant</subtitle><entry><title type="html">Tableau Row Level Security</title><link href="http://localhost:4000/tableau-row-level-security/" rel="alternate" type="text/html" title="Tableau Row Level Security" /><published>2020-09-30T00:00:00+03:00</published><updated>2020-09-30T00:00:00+03:00</updated><id>http://localhost:4000/tableau-row-level-security</id><content type="html" xml:base="http://localhost:4000/tableau-row-level-security/">&lt;h3 id=&quot;tableau-row-level-security&quot;&gt;Tableau Row Level Security&lt;/h3&gt;
+
+&lt;figure class=&quot;figure&quot;&gt;
+    &lt;a href=&quot;/images/posts/tableau/row-level-security/cover.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/cover.png&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Row Level Security&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt; “Row Level Security” &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Selamlar bu yazımda Tableau üzerinde Row Level Security nasıl yapılır özetle anlatmaya çalışacağım.&lt;/p&gt;
+
+&lt;p&gt;Öncelikle işlemleri Tableau Desktop ve Tableau Server üzerinde gerçekleştireceğiz.
+ Elimizde aşağıdaki gibi bir Dashboard olduğunu varsayalım. Bana ait olan iki farklı mail adresi üzerinden gideceğim.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image1.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image1.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Başlamadan önce Tableau Server üzerinde login oluyor ve bir site oluşturuyoruz.
+&lt;br /&gt;
+Owner User: Furkan Tolu (163…..@mersin.edu.tr)
+“https://dub01.online.tableau.com/#/site/intelvod/”&lt;/p&gt;
+
+&lt;p&gt;Yapmak istediğimiz kullanıcı gruplarına ya da kullanıcılara göre görüntülenecek dataları filtreleme.&lt;/p&gt;
+
+&lt;p&gt;Tableau Server üzerinde kullanıcı ve kullanıcı grubu oluşturuyoruz. Sol tarafta bulunan Groups menüsüne giderek işlemi gerçekleştiriyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image2.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image2.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kullanıcı grubunu oluşturduk, şimdi kullanıcıları oluşturacağız. Bu işlemi iki farklı yol ile yapabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Kullanıcı mail adreslerini tek tek girerek ya da bir csv dosyasından alarak. 
+&lt;br /&gt;Biz manuel şekilde mail adresi girerek oluşturacağız.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image3.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image3.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image4.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image4.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kullanıcıları oluşturduk. Şimdi raporları publish edip yetkilendirme işlemleri gerçekleştireceğiz.
+Tableau Desktop üzerinden Tableau Server’a sign in oluyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image5.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image5.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Çalışmalarımızı publish ediyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image6.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image6.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Permissions ayarlarını ister buradan özelleştirebilir, isterseniz Tableau Server üzerinden yapabiliriz.
+Biz Tableau Server üzerinden devam edelim. Publish ediyorum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image7.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image7.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Explore menüsü üzerinde Proje, Dashboard, Sheet ya da Sütun bazlı izin ayarlamaları yapabiliyoruz.&lt;br /&gt;
+&lt;br /&gt; Üç nokta daha sonra Permissions diyerek işlemlere devam ediyorum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image8.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image8.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Furkan Tolu(furkantolu70@gmail.com) user’ına görüntüleme izni verdik ve diğer özelleştirmeler için
+onay vermedik.&lt;/p&gt;
+
+&lt;p&gt;Görüldüğü gibi user, sadece raporları görebiliyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image9.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image9.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Şimdi ise CustomerD Dasboard’u, Day of Order Date sütununu için furkantolu70@gmail.com
+kullanıcısına sadece ‘January’ ay bilgisini göstereceğiz. Diğer kullanıcı tüm ayları görebilecek.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image10.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image10.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Order Date bazında kullanıcı için bir filtre oluşturuyoruz. Sol menüden kullanıcıyı, sağ menüden ise görmesini istediğimiz alanları seçerek devam ediyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image11.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image11.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Şimdi her iki kullanıcı ile son duruma bakalım.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image12.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image12.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/tableau/row-level-security/row-level-security-image13.png&quot;&gt;&lt;img src=&quot;/images/posts/tableau/row-level-security/row-level-security-image13.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Evet, bu yazıda Tableau ile Row Level Security düzenlemeleri yapmaya çalıştık. Elimden geldiği kadar açık ve özet bir anlatım yapmaya çalıştım.
+Umarım sizler için faydalı bir yazı olmuştur.&lt;/p&gt;
+
+&lt;p&gt;Görüşmek üzere, esen kalın!&lt;/p&gt;</content><author><name></name></author><category term="Tableau Desktop" /><category term="Tableau Server" /><category term="Row Level Security" /><summary type="html">Tableau Row Level Security</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/tableau/cover.png" /></entry><entry><title type="html">Power BI ve R ile 10 Günlük Covid-19 Forecast</title><link href="http://localhost:4000/covid-forecast/" rel="alternate" type="text/html" title="Power BI ve R ile 10 Günlük Covid-19 Forecast" /><published>2020-05-01T00:00:00+03:00</published><updated>2020-05-01T00:00:00+03:00</updated><id>http://localhost:4000/covid-forecast</id><content type="html" xml:base="http://localhost:4000/covid-forecast/">&lt;h3 id=&quot;10-günlük-covid-19-artış-oranı-forecast&quot;&gt;10 Günlük Covid-19 Artış Oranı Forecast&lt;/h3&gt;
 
 &lt;figure class=&quot;figure&quot;&gt;
     &lt;a href=&quot;/images/posts/powerbi/cover.png&quot;&gt;&lt;img src=&quot;/images/posts/powerbi/cover.png&quot; /&gt;&lt;/a&gt;
@@ -64,7 +144,7 @@ Eğer daha önce kurulum yapmadıysanız&lt;/p&gt;
 
 &lt;p&gt;Ortaya çıkan tahminimiz bu şekildedir. Grafik, yapacağınız özelleştirmeler ile geliştirilebilir.&lt;/p&gt;
 
-&lt;p&gt;Okuduğunuz için teşekkürler..&lt;/p&gt;</content><author><name></name></author><category term="Power BI" /><category term="R Language" /><category term="Forecast" /><category term="Covid-19" /><summary type="html">10 Günlük Covid-19 Artış Oranı Forecast</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/powerbi/cover2.png" /></entry><entry><title type="html">Teğmen Tolu!</title><link href="http://localhost:4000/tegmen-tolu/" rel="alternate" type="text/html" title="Teğmen Tolu!" /><published>2019-09-10T00:00:00+03:00</published><updated>2019-09-10T00:00:00+03:00</updated><id>http://localhost:4000/tegmen-tolu</id><content type="html" xml:base="http://localhost:4000/tegmen-tolu/">&lt;h3 id=&quot;teğmen-tolu&quot;&gt;Teğmen Tolu&lt;/h3&gt;
+&lt;p&gt;Umarım faydalı bir yazı olmuştur, hoşçakalın!&lt;/p&gt;</content><author><name></name></author><category term="Power BI" /><category term="R Language" /><category term="Forecast" /><category term="Covid-19" /><summary type="html">10 Günlük Covid-19 Artış Oranı Forecast</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/posts/powerbi/cover2.png" /></entry><entry><title type="html">Teğmen Tolu!</title><link href="http://localhost:4000/tegmen-tolu/" rel="alternate" type="text/html" title="Teğmen Tolu!" /><published>2019-09-10T00:00:00+03:00</published><updated>2019-09-10T00:00:00+03:00</updated><id>http://localhost:4000/tegmen-tolu</id><content type="html" xml:base="http://localhost:4000/tegmen-tolu/">&lt;h3 id=&quot;teğmen-tolu&quot;&gt;Teğmen Tolu&lt;/h3&gt;
 
 &lt;figure class=&quot;figure&quot;&gt;
     &lt;a href=&quot;/images/posts/askerlik/foto1.jpg&quot;&gt;&lt;img src=&quot;/images/posts/askerlik/foto1.jpg&quot; /&gt;&lt;/a&gt;

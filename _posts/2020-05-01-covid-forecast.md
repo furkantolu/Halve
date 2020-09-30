@@ -79,4 +79,4 @@ paketlerinizi yüklemeniz gerekecektir. Kodlarımız aşağıdaki gibi olacaktı
 
 Ortaya çıkan tahminimiz bu şekildedir. Grafik, yapacağınız özelleştirmeler ile geliştirilebilir.
 
-Okuduğunuz için teşekkürler..
+Umarım faydalı bir yazı olmuştur, hoşçakalın!

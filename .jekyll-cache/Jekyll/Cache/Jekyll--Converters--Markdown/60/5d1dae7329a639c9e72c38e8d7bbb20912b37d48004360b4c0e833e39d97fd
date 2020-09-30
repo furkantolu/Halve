@@ -1,0 +1,84 @@
+I"V<h3 id="10-günlük-covid-19-artış-oranı-forecast">10 Günlük Covid-19 Artış Oranı Forecast</h3>
+
+<figure class="figure">
+    <a href="/images/posts/tableau/row-level-security/cover.png"><img src="/images/posts/tableau/row-level-security/cover.png" /></a>
+    <figcaption>Row Level Security</figcaption>
+</figure>
+
+<p><strong> “Row Level Security” </strong></p>
+
+<p>Selamlar bu yazımda Tableau üzerinde Row Level Security nasıl yapılır özetle anlatmaya çalışacağım.</p>
+
+<p>Öncelikle işlemleri Tableau Desktop ve Tableau Server üzerinde gerçekleştireceğiz.
+ Elimizde aşağıdaki gibi bir Dashboard olduğunu varsayalım. Bana ait olan iki farklı mail adresi üzerinden gideceğim.</p>
+
+<p><a href="/images/posts/tableau/row-level-security/row-level-security-image1.png"><img src="/images/posts/tableau/row-level-security/row-level-security-image1.png" /></a></p>
+
+<p>Başlamadan önce Tableau Server üzerinde login oluyor ve bir site oluşturuyoruz.
+Owner User: Furkan Tolu (163…..@mersin.edu.tr)
+“https://dub01.online.tableau.com/#/site/intelvod/”</p>
+
+<p>Yapmak istediğimiz kullanıcı gruplarına ya da kullanıcılara göre görüntülenecek dataları filtreleme.</p>
+
+<p>Tableau Server üzerinde kullanıcı ve kullanıcı grubu oluşturuyoruz. Sol tarafta bulunan Groups menüsüne giderek işlemi gerçekleştiriyoruz.</p>
+
+<p><a href="/images/posts/tableau/row-level-security/row-level-security-image2.png"><img src="/images/posts/tableau/row-level-security/row-level-security-image2.png" /></a></p>
+
+<p>Kullanıcı grubunu oluşturduk, şimdi kullanıcıları oluşturacağız. Bu işlemi iki farklı yol ile yapabilirsiniz.</p>
+
+<p>Kullanıcı mail adreslerini tek tek girerek ya da bir csv dosyasından alarak. Biz manuel şekilde mail adresi girerek oluşturacağız.</p>
+
+<p><a href="/images/posts/tableau/row-level-security/row-level-security-image3.png"><img src="/images/posts/tableau/row-level-security/row-level-security-image3.png" /></a></p>
+
+<p>Kullanıcıları oluşturduk. Şimdi raporları publish edip yetkilendirme işlemleri gerçekleştireceğiz.
+Tableau Desktop üzerinden Tableau Server’a sign in oluyoruz.</p>
+
+<p><a href="/images/posts/tableau/row-level-security/row-level-security-image4.png"><img src="/images/posts/tableau/row-level-security/row-level-security-image4.png" /></a></p>
+
+<p>Çalışmalarımızı publis</p>
+
+<p><a href="/images/posts/powerbi/p3.png"><img src="/images/posts/powerbi/p3.png" /></a></p>
+
+<p>“Replace Values” seçeneğine tıklayarak <code class="highlighter-rouge">Null</code> olan değerleri <code class="highlighter-rouge">0</code> ile değiştireceğiz.</p>
+
+<p><a href="/images/posts/powerbi/p4.png"><img src="/images/posts/powerbi/p4.png" /></a></p>
+
+<p>İşlemi gerçekleştirdikten sonra “Close&amp;Apply” seçeneği ile Power BI arayüzümüzü açıyoruz.
+ Verilerimiz bu şekilde;</p>
+
+<p><a href="/images/posts/powerbi/p5.png"><img src="/images/posts/powerbi/p5.png" /></a></p>
+
+<p>Yeni bir R Script Visual ekleyelim, “Date” ve “Increase rate” alanlarını ekleyerek devam edelim.</p>
+
+<p><a href="/images/posts/powerbi/p6.png"><img src="/images/posts/powerbi/p6.png" /></a></p>
+
+<p>R scriptlerimizi yazmaya başlayacağız bu işlemi R Studio üzerinde ya da Power BI üzerinde gerçekleştirebilirsiniz. Ben Power BI üzerinde yapacağım.
+Açılan R script editor penceresinde yazmaya başlayalım.
+Eğer daha önce kurulum yapmadıysanız</p>
+
+<p>-<code class="highlighter-rouge">install.packages("forecast")</code></p>
+
+<p>-<code class="highlighter-rouge">install.packages("tseries")</code></p>
+
+<p>paketlerinizi yüklemeniz gerekecektir. Kodlarımız aşağıdaki gibi olacaktır.</p>
+
+<p><a href="/images/posts/powerbi/p7.png"><img src="/images/posts/powerbi/p7.png" /></a></p>
+
+<p><code class="highlighter-rouge">Library(“”)</code> fonksiyonu ile kullanacağımız kütüphaneleri çağırdık.</p>
+
+<p><code class="highlighter-rouge">myTimeSeries &lt;- dataset</code> komutu ile datasetimizi myTimeSeries vektörüne atadık.</p>
+
+<p><code class="highlighter-rouge">as.ts</code> ile bir seriyi zaman serisine dönüştürüyoruz. Argüman olarak X’in 2. Sütununu verdik. Bu işlemi <code class="highlighter-rouge">myX</code> vektörüne verdik.</p>
+
+<p><code class="highlighter-rouge">myForecast &lt;- forecast(holt(myX), h = 10)</code> burada ise 10 günlük bir tahmin alıyor ve myForecast vektörüne atıyoruz.
+<code class="highlighter-rouge">Forecast</code> fonksiyonu gelecekteki verileri tahmin etmek için kullanılıyor.</p>
+
+<p><code class="highlighter-rouge">plot(myForecast, main = "10-day increase rate forecast", ylab="Level", xlab="Day" )</code>
+<code class="highlighter-rouge">plot</code> fonksiyonu ise çizim yapmak için kullanılır. <code class="highlighter-rouge">myForeCast</code> içerisinde bulunan verileri <code class="highlighter-rouge">plot</code> ile grafik haline getirdik.</p>
+
+<p><a href="/images/posts/powerbi/p8.png"><img src="/images/posts/powerbi/p8.png" /></a></p>
+
+<p>Ortaya çıkan tahminimiz bu şekildedir. Grafik, yapacağınız özelleştirmeler ile geliştirilebilir.</p>
+
+<p>Okuduğunuz için teşekkürler..</p>
+:ET
