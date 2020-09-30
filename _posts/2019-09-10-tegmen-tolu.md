@@ -3,7 +3,7 @@ layout: post
 date:   2019-09-10
 title: "Teğmen Tolu!"
 categories:
-  - Askerlik
+  - Etkinlik
 image: /images/posts/askerlik/cover.jpg
 tags:
   - Türk Silahlık Kuvvetleri

@@ -3,13 +3,12 @@ layout: post
 date:   2018-02-10
 title: "Water Is Life"
 categories:
-  - Erasmus+
+  - Etkinlik
 image: /images/posts/waterislife/waterislife.jpg
 tags:
   - Erasmus+
   - Gençlik Değişim Projeleri
   - Youth Exchange
-  - Project
 ---
 
 ### Erasmus+ Uluslararası Gençlik Değişimi

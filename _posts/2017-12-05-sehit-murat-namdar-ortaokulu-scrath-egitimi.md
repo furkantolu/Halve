@@ -3,16 +3,15 @@ layout: post
 date:   2017-12-05
 title: "Şehit Murat Namdar Ortaokulu"
 categories:
-  - Habitat Derneği
+  - Etkinlik
 image: /images/posts/habitatanamur/cover.jpg
 tags:
   - Habitat Derneği
   - Scratch ve Mbot Eğitimleri
   - Şehit Murat Namdar Ortaokulu
   - Türkiye Vodafone Vakfı
-  - Proje
   - Yarını Kodlayanlar
-  - Bozyazı
+  - Mersin Bozyazı
 ---
 
 ### Yarını Kodlayanlar Şehit Murat Namdar Ortaokulu Scratch ve mBot Eğitimi

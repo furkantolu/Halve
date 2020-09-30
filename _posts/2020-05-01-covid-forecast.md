@@ -3,7 +3,7 @@ layout: post
 date:   2020-05-01
 title: "Power BI ve R ile 10 Günlük Covid-19 Forecast"
 categories:
-  - Power BI
+  - İş Zekası
 
 image: /images/posts/powerbi/cover2.png
 tags:

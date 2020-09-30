@@ -3,13 +3,12 @@ layout: post
 date:   2017-09-28
 title: "Yarını Kodlayanlar Mersin Eğitmen Eğitimi"
 categories:
-  - Habitat Derneği
+  - Etkinlik
 image: /images/posts/habitatmersin/cover.jpg
 tags:
   - Habitat Derneği
   - Scratch ve Mbot Eğitimleri
   - Türkiye Vodafone Vakfı
-  - Proje
   - Yarını Kodlayanlar
   - Mersin Eğitmen Eğitimi
 ---
