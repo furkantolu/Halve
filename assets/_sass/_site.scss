@@ -11,9 +11,14 @@
   overflow-y: auto;
 }
 
+#homepage{
+  .block-right{
+    display: flex !important;
+  }
+}
+
 .block-left,
 .block-right {
-  width: 50%;
   height: 100%;
   position: relative;
   display: table;
@@ -26,6 +31,14 @@
   }
 }
 
+.block-left{
+  width: 30%;
+}
+
+.block-right{
+  width: 70%;
+}
+
 .inactive {
   pointer-events: none;
   pointer: default;
@@ -33,7 +46,7 @@
 
 .content {
   padding: 60px;
-  max-width: 600px;
+  // max-width: 600px;
   margin: 0 auto;
 }
 
@@ -400,6 +413,10 @@ canvas {
   }
 }
 
+.about-info{
+  max-width: 80%
+}
+
 .main-info {
   color: $white;
   h1 {
@@ -411,7 +428,7 @@ canvas {
     font-size: 21px;
     line-height: 30px;
     margin: 10px 0;
-    padding-top: 25px;
+    padding-top: 5px;
     &:after {
       display: none;
     }
@@ -462,7 +479,7 @@ canvas {
     .content {
       height: auto;
       display: block;
-      max-width: 800px;
+      max-width: 80%;
     }
   }
   .logo {
@@ -613,7 +630,7 @@ canvas {
     position: relative;
     left: auto;
     bottom: auto;
-    font-size: 80px;
+    font-size: 60px;
   }
   .tags > li {
     background: none;
@@ -888,4 +905,16 @@ canvas {
       }
     }
   }
+}
+
+.figure{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+
+.about-me{
+  margin-top: 30px;
+  color: #ffffff !important;
+  display: block;
 }
