@@ -1,4 +1,4 @@
-I"�*
+I"�/
 <ul class="entry-meta">
   
   
@@ -6,6 +6,9 @@
   
   
   <li><a href="#Covid-19" class="tag"><span class="term">Covid-19</span> <span class="count">1</span></a></li>
+  
+  
+  <li><a href="#Data Mining" class="tag"><span class="term">Data Mining</span> <span class="count">1</span></a></li>
   
   
   <li><a href="#Erasmus+" class="tag"><span class="term">Erasmus+</span> <span class="count">1</span></a></li>
@@ -44,6 +47,9 @@
   <li><a href="#Row Level Security" class="tag"><span class="term">Row Level Security</span> <span class="count">1</span></a></li>
   
   
+  <li><a href="#SSAS(SQL Server Analysis Services)" class="tag"><span class="term">SSAS(SQL Server Analysis Services)</span> <span class="count">1</span></a></li>
+  
+  
   <li><a href="#Scratch ve Mbot Eğitimleri" class="tag"><span class="term">Scratch ve Mbot Eğitimleri</span> <span class="count">2</span></a></li>
   
   
@@ -51,6 +57,9 @@
   
   
   <li><a href="#Tableau Server" class="tag"><span class="term">Tableau Server</span> <span class="count">1</span></a></li>
+  
+  
+  <li><a href="#Tabular Model" class="tag"><span class="term">Tabular Model</span> <span class="count">1</span></a></li>
   
   
   <li><a href="#Türk Silahlık Kuvvetleri" class="tag"><span class="term">Türk Silahlık Kuvvetleri</span> <span class="count">1</span></a></li>
@@ -89,6 +98,13 @@
 <ul>
     
     <li class="entry-title"><a href="http://localhost:4000/covid-forecast/" title="Power BI ve R ile 10 Günlük Covid-19 Forecast">Power BI ve R ile 10 Günlük Covid-19 Forecast</a></li>
+    
+  </ul>
+
+<h2 id="Data Mining" class="tag-heading">Data Mining</h2>
+<ul>
+    
+    <li class="entry-title"><a href="http://localhost:4000/sql-server-analysis-services-1/" title="SSAS (SQL Server Analysis Services) #1">SSAS (SQL Server Analysis Services) #1</a></li>
     
   </ul>
 
@@ -178,6 +194,13 @@
     
   </ul>
 
+<h2 id="SSAS(SQL Server Analysis Services)" class="tag-heading">SSAS(SQL Server Analysis Services)</h2>
+<ul>
+    
+    <li class="entry-title"><a href="http://localhost:4000/sql-server-analysis-services-1/" title="SSAS (SQL Server Analysis Services) #1">SSAS (SQL Server Analysis Services) #1</a></li>
+    
+  </ul>
+
 <h2 id="Scratch ve Mbot Eğitimleri" class="tag-heading">Scratch ve Mbot Eğitimleri</h2>
 <ul>
     
@@ -198,6 +221,13 @@
 <ul>
     
     <li class="entry-title"><a href="http://localhost:4000/tableau-row-level-security/" title="Tableau Row Level Security">Tableau Row Level Security</a></li>
+    
+  </ul>
+
+<h2 id="Tabular Model" class="tag-heading">Tabular Model</h2>
+<ul>
+    
+    <li class="entry-title"><a href="http://localhost:4000/sql-server-analysis-services-1/" title="SSAS (SQL Server Analysis Services) #1">SSAS (SQL Server Analysis Services) #1</a></li>
     
   </ul>
 
